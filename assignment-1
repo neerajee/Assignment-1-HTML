@@ -9,7 +9,7 @@
                 text-decoration: none;
                 margin-left: 10px;
             }
-            a:hover{
+            #A:hover{
                 background-color: black;
             }
         </style>
@@ -24,9 +24,9 @@
                 
             </style>
                 
-            <a style="font-size: x-large;  " href=""  > Index  </a> 
-            <a style="font-size:x-large ;"  href="">  Food   </a>
-            <a  style="font-size: x-large; "href="">  About  </a>
+            <a id="A" style="font-size: x-large;  " href=""  > Index  </a> 
+            <a id="A" style="font-size:x-large ;"  href="">  Food   </a>
+            <a id="A" style="font-size: x-large; "href="">  About  </a>
             
          
          
