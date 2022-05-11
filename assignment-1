@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>
+        Food web Page
+        </title>
+        <style>
+            a{
+                color: white;
+                text-decoration: none;
+                margin-left: 10px;
+            }
+            a:hover{
+                background-color: black;
+            }
+        </style>
+    </head>
+    <body style="background-color: gainsboro;">
+       
+    
+        <div style="background-color: dimgray;  ">
+            
+            
+            <style>
+                
+            </style>
+                
+            <a style="font-size: x-large;  " href=""  > Index  </a> 
+            <a style="font-size:x-large ;"  href="">  Food   </a>
+            <a  style="font-size: x-large; "href="">  About  </a>
+            
+         
+         
+         </div>
+         <h1>Top Favourite 5 Foods</h1>
+         <ul type ="square">
+            <li> <a href="#1" style="font-size: x-large;color:chocolate;" >Biryani</a></li> 
+            <li> <a href="#2" style="font-size: x-large; color:chocolate;" >Cake</a></li> 
+            <li> <a href="#3" style="font-size: x-large; color:chocolate;">Pizza</a></li> 
+            <li> <a href="#4" style="font-size: x-large; color:chocolate;">Noodles</a></li> 
+            <li> <a href="#5"style="font-size: x-large; color:chocolate;" >Burger</a></li> 
+            
+            </ul>
+            <p id="1" style="text-align: center;">
+                <img  height="300" width="500" src="https://www.unileverfoodsolutions.lk/dam/global-ufs/mcos/meps/sri-lanka/calcmenu/recipes/LK-recipes/general/authentic-chicken-biryani/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg"><br>
+                <span style="font-size: x-large;">Biryani</span>
+                
+            </p>
+            <p id="2" style="text-align: center;">
+                <img  height="300" width="500" src="https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80"><br>
+                <span style="font-size: x-large;">Cake</span>
+            </p>
+            <p id="3" style="text-align: center;">
+                <img  height="300" width="500" src="https://thumbs.dreamstime.com/b/pizza-rustic-italian-mozzarella-cheese-basil-leaves-35669930.jpg"><br>
+                <span style="font-size: x-large;">Pizza</span>
+            </p>
+            <p id="4" style="text-align: center;">
+                <img  height="300" width="500" src="https://www.saveur.com/uploads/2019/12/09/OB7S7ZQJAVDRFGVXYHMD3FUS2Y.jpg"><br>
+                <span style="font-size: x-large;">Noodles</span>
+            </p>
+            <p id="5" style="text-align: center;">
+                <img  height="300" width="500" src="https://media.gettyimages.com/photos/big-cheese-burger-with-fries-picture-id1174648824?s=612x612"><br>
+                <span style="font-size: x-large;">Burger</span>
+            </p>
+        </body>
+</html>
